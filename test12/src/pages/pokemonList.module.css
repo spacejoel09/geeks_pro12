@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    background: #76dcf8;
+    border-radius: 10px;
+    width: 250px;
+    align-content: center;
+    justify-content: space-between;
+    text-align: center;
+    box-shadow: -8px 13px 8px 0px rgba(34, 60, 80, 0.2);
+
+}
+
+.image{
+    padding: 10px;
+    width: 60px;
+    height: 60px;
+
+}
+
+.name{
+    font-weight: 400;
+    padding: 20px;
+    width: 100%;
+    font-size: 15px ;
+
+}
+
+.body{
+    margin: 0 auto;
+    column-gap: 100px;
+    row-gap: 20px;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+
+}
